@@ -21,9 +21,9 @@
 <a href="mailto:rupeshkharel76@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
 </a>
-
-
 </div>
+
+
 
 ###
 
@@ -37,11 +37,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Do I echo in your memory?</h3>
 
 ###
 
-<p align="left">It's me Rupesh Kharal,passionate Web developer <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Reactjs<br>- ⚡ In my free time I think why I'm free</p>
+<p align="left">It's me Rupesh Kharal,a passionate Web developer <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Reactjs<br>- ⚡ In my free time I think why I'm free</p>
 
 ###
 
