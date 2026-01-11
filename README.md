@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">It's me Rupesh Kharal,a passionate Web developer <br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Reactjs<br>- ⚡ In my free time I think why I'm free</p>
+<p align="left">It's me Rupesh Kharal,a passionate Web developer.<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Reactjs<br>- ⚡ In my free time I think why I'm free</p>
 
 ###
 
