@@ -1,4 +1,4 @@
-![log](https://media.licdn.com/dms/image/v2/D5616AQFFRoZHJsgRgA/profile-displaybackgroundimage-shrink_350_1400/B56Zs319_IJUAY-/0/1766168455733?e=1769644800&v=beta&t=ATiVQKQgmHtMrajEvtCcRga3iGj-SJtjl3wE0cu3_U4) 
+![log](https://www.linkedin.com/in/rupeshkharal/overlay/background-image/) 
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
