@@ -49,15 +49,8 @@ It's me **Rupesh Kharal**, a passionate Web Developer.
 
 <div align="center">
 
-### 🔥 Streak Stats  
+###  Contribution Streak 
 <img height="165" src="https://streak-stats.demolab.com?user=ruz-07&theme=tokyonight&hide_border=true"/>
 
-### 📈 GitHub Stats  
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ruz-07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-### 📚 Most Used Languages  
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruz-07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-### 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=ruz-07&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
 </div>
+<h2 align="center"> Thanks for visiting my profile! </h2>
