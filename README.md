@@ -29,7 +29,7 @@ It's me **Rupesh Kharal**, a passionate Web Developer.
 
 - 🔭 Working as **Frontend Developer**  
 - 📚 Learning **React.js**  
-- ⚡ In my free time, I think *“Why am I free?”*  
+- ⚡ In my free time, I ask myself *“Why am I free?”*  
 
 ---
 
