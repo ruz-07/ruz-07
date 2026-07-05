@@ -53,4 +53,4 @@ It's me **Rupesh Kharal**, a passionate Web Developer.
 <img height="165" src="https://streak-stats.demolab.com?user=ruz-07&theme=tokyonight&hide_border=true"/>
 
 </div>
-<h2 align="center"> Thanks for visiting my profile! </h2>
+<h2 align="center"> Thanks for visiting my profile!! </h2>
