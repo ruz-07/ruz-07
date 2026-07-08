@@ -31,7 +31,7 @@ It's me **Rupesh Kharal**, a passionate Web Developer.
 - 📚 Learning **React.js**  
 - ⚡ In my free time, I ask myself *“Why am I free?”*  
 
----
+----
 
 ## 🛠 Languages & Tools
 
