@@ -122,7 +122,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 ![](https://komarev.com/ghpvc/?username=ruz-07&style=for-the-badge&color=blue)
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."* 🚀
 
