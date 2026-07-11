@@ -178,4 +178,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 *"Code. Learn. Build. Repeat."* 🚀
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:8A2BE2,100:00C6FF"/>
+
 </div>
