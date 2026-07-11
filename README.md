@@ -48,7 +48,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,"/>
 
 </div>
 
