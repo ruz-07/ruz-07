@@ -131,6 +131,8 @@ Passionate about building beautiful and responsive websites while continuously l
 
 </p>
 
+-----
+
 #  Coding Playlist 🎵
 
 <div align="center">
@@ -150,7 +152,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 ---
 
-#  Quote
+
 
 <div align="center">
 
@@ -159,7 +161,7 @@ Passionate about building beautiful and responsive websites while continuously l
 </div>
 
 ---
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
