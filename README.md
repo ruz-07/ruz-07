@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm Rupesh Kharal
 
-### 💻 Frontend Developer | 🚀 CSIT Student | 🌱 React Learner
+###  Frontend Developer | CSIT Student 
 
 <p>
 Passionate about building beautiful and responsive websites while continuously learning modern web technologies.
@@ -32,15 +32,13 @@ Passionate about building beautiful and responsive websites while continuously l
 
 # 👨‍💻 About Me
 
-🎓 B.Sc. CSIT Student
+. B.Sc. CSIT Student
 
-🌱 Currently learning **React.js**
+. Interested in **Frontend Development**
 
-💻 Interested in **Frontend Development**
+. Building Web Applications
 
-🚀 Building Web Applications
-
-🏆 Hackathon Enthusiast
+.🏆 Hackathon Enthusiast
 
 🎯 Goal: Become a Full Stack Developer
 
@@ -68,7 +66,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -92,11 +90,11 @@ Passionate about building beautiful and responsive websites while continuously l
 
 | Project | Description |
 |----------|-------------|
-| 🎯 Quiz App | Interactive Quiz Application using HTML, CSS & JavaScript |
-| 💼 Portfolio Website | Personal Portfolio showcasing projects & skills |
-| 🏛 Civic Sewa | Government Service Information Platform |
-| 🎬 Movie Search App | React App using Movie API |
-| 🤖 SATYA | AI Evidence Integrity System for Nepal Police |
+| Quiz App | Interactive Quiz Application using HTML, CSS & JavaScript |
+|  Portfolio Website | Personal Portfolio showcasing projects & skills |
+|  Civic Sewa | Government Service Information Platform |
+|  Movie Search App | React App using Movie API |
+|  SATYA | AI Evidence Integrity System for Nepal Police |
 
 ---
 
