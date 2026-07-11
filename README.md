@@ -92,14 +92,14 @@ Passionate about building beautiful and responsive websites while continuously l
 
 <div align="center">
 
-| 🏆 Achievement | 🎖️ Status |
+|  Achievement 🏆|  Status🎖️ |
 |:--------------|:---------:|
 |  **Hack4Safety 2026** – Nepal Police Lumbini Province | Second Runnerup |
-|  **SATYA** – AI Evidence Integrity System | 🚀 Project |
+|  **SATYA** – AI Evidence Integrity System |  Project |
 |  **Butwal Hacks** | Elevenlabs 🏆 |
-|  **TriSpark Team** | 🌟 Team |
+|  **TriSpark Team** | Team |
 |  **WordCamp Nepal 2026** | Participant  |
-|  **Data Fellowship Cohort 1** | 📜 Completed |
+|  **Data Fellowship Cohort 1** | Completed |
 |  **CSIT Association BMC** | 👨‍💼 Executive Member |
 
 </div>
