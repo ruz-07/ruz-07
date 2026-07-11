@@ -130,6 +130,35 @@ Passionate about building beautiful and responsive websites while continuously l
 <img src="https://img.shields.io/badge/DataCamp-Fellowship-03EF62?style=for-the-badge&logo=datacamp"/>
 
 </p>
+
+#  Coding Playlist 🎵
+
+<div align="center">
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS">
+
+<img src="https://img.shields.io/badge/Spotify-Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+
+</a>
+
+<br><br>
+ 🎧
+*"Music fuels my creativity while coding."* 
+
+</div>
+----
+
+---
+
+#  Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
 # 🌐 Connect With Me
 
 <p align="center">
