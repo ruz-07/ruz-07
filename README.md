@@ -54,7 +54,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph 📈
 
 <div align="center">
 
