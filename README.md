@@ -148,7 +148,7 @@ Passionate about building beautiful and responsive websites while continuously l
 *"Music fuels my creativity while coding."* 
 
 </div>
-----
+
 
 
 
