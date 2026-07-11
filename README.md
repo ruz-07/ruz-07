@@ -123,9 +123,9 @@ Passionate about building beautiful and responsive websites while continuously l
 
 <img src="https://img.shields.io/badge/SATYA-AI%20Project-8A2BE2?style=for-the-badge&logo=openai"/>
 
-<img src="https://img.shields.io/badge/Butwal%20Hacks-Participant-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Butwal%20Hacks-Elevenlabs winner-00C6FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/WordCamp-Volunteer-21759B?style=for-the-badge&logo=wordpress"/>
+<img src="https://img.shields.io/badge/WordCamp-Participant-21759B?style=for-the-badge&logo=wordpress"/>
 
 <img src="https://img.shields.io/badge/DataCamp-Fellowship-03EF62?style=for-the-badge&logo=datacamp"/>
 
