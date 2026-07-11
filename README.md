@@ -30,7 +30,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 . B.Sc. CSIT Student
 
@@ -75,7 +75,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Description |
 |----------|-------------|
