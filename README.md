@@ -133,7 +133,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 -----
 
-#  Coding Playlist 🎵
+#  Coding Playlist 
 
 <div align="center">
 
@@ -150,7 +150,7 @@ Passionate about building beautiful and responsive websites while continuously l
 </div>
 ----
 
----
+
 
 
 
