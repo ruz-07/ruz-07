@@ -1,56 +1,131 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
-###
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170"/>
 
-<div align="center">
-  <a href="https://github.com/ruz-07">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/rupeshkharal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" height="25" />
-  </a>
-  <a href="https://facebook.com/Rupesh Kharel">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:rupeshkharel76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" height="25" />
-  </a>
+# 👋 Hello, I'm Rupesh Kharal
+
+### 💻 Frontend Developer | 🚀 CSIT Student | 🌱 React Learner
+
+<p>
+Passionate about building beautiful and responsive websites while continuously learning modern web technologies.
+</p>
+
+<a href="https://www.linkedin.com/in/rupeshkharal/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ruz-07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:rupeshkharel76@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-<h1 align="center">👋 Hey !</h1>
+# 👨‍💻 About Me
 
-### 👨‍💻 Do I echo in your memory?
+🎓 B.Sc. CSIT Student
 
-It's me **Rupesh Kharal**, a passionate Web Developer.
+🌱 Currently learning **React.js**
 
-- 🔭 Working as **Frontend Developer**  
-- 📚 Learning **React.js**  
-- ⚡ In my free time, I ask myself *“Why am I free?”*  
+💻 Interested in **Frontend Development**
 
-----
+🚀 Building Web Applications
 
-## 🛠 Languages & Tools
+🏆 Hackathon Enthusiast
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+🎯 Goal: Become a Full Stack Developer
+
+---
+
+# 🛠 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma,bootstrap"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-###  Contribution Streak 
-<img height="165" src="https://streak-stats.demolab.com?user=ruz-07&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ruz-07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruz-07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-<h2 align="center"> Thanks for visiting my profile!! </h2>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ruz-07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruz-07&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🎯 Quiz App | Interactive Quiz Application using HTML, CSS & JavaScript |
+| 💼 Portfolio Website | Personal Portfolio showcasing projects & skills |
+| 🏛 Civic Sewa | Government Service Information Platform |
+| 🎬 Movie Search App | React App using Movie API |
+| 🤖 SATYA | AI Evidence Integrity System for Nepal Police |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rupeshkharal/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:rupeshkharel76@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/ruz-07">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ruz-07&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
