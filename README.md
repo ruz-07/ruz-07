@@ -97,7 +97,39 @@ Passionate about building beautiful and responsive websites while continuously l
 |  SATYA | AI Evidence Integrity System for Nepal Police |
 
 ---
+---
 
+#  Hackathon Achievements 🏅
+
+<div align="center">
+
+| 🏆 Achievement | 🎖️ Status |
+|:--------------|:---------:|
+|  **Hack4Safety 2026** – Nepal Police Lumbini Province | Second Runnerup |
+|  **SATYA** – AI Evidence Integrity System | 🚀 Project |
+|  **Butwal Hacks** | Elevenlabs 🏆 |
+|  **TriSpark Team** | 🌟 Team |
+|  **WordCamp Nepal 2026** | Participant  |
+|  **Data Fellowship Cohort 1** | 📜 Completed |
+|  **CSIT Association BMC** | 👨‍💼 Executive Member |
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hack4Safety-2026-blueviolet?style=for-the-badge&logo=hackaday"/>
+
+<img src="https://img.shields.io/badge/Nepal%20Police-Hackathon-0057B8?style=for-the-badge&logo=police"/>
+
+<img src="https://img.shields.io/badge/SATYA-AI%20Project-8A2BE2?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Butwal%20Hacks-Participant-00C6FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WordCamp-Volunteer-21759B?style=for-the-badge&logo=wordpress"/>
+
+<img src="https://img.shields.io/badge/DataCamp-Fellowship-03EF62?style=for-the-badge&logo=datacamp"/>
+
+</p>
 # 🌐 Connect With Me
 
 <p align="center">
