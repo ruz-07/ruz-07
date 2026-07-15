@@ -38,8 +38,6 @@ Passionate about building beautiful and responsive websites while continuously l
 
 . Building Web Applications
 
-.🏆 Hackathon Enthusiast
-
 🎯 Goal: Become a Full Stack Developer
 
 ---
