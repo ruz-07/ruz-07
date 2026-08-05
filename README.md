@@ -98,7 +98,7 @@ Passionate about building beautiful and responsive websites while continuously l
 |  **TriSpark Team** | Team |
 |  **WordCamp Nepal 2026** | Participant  |
 |  **Data Fellowship Cohort 1** | Completed |
-|  **CSIT Association BMC** | 👨‍💼 Executive Member |
+|  **CSIT Association BMC** | Vice-President |
 
 </div>
 
