@@ -102,6 +102,7 @@ Passionate about building beautiful and responsive websites while continuously l
 
 </div>
 
+----
 <p align="center">
 
 <img src="https://img.shields.io/badge/Hack4Safety-2026-blueviolet?style=for-the-badge&logo=hackaday"/>
