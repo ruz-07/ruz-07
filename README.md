@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170"/>
 
-# Hello, I'm Rupesh Kharal
+# 👋 Hello, I'm Rupesh Kharal
 
 ###  Frontend Developer | CSIT Student 
 
